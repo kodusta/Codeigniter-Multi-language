@@ -1,0 +1,2 @@
+# Codeigniter-Multi-language
+Codeigniter ile basit bir şekilde çoklu dil yapısını nasıl kullanacağınızı anlattım. Özellikle core dosyası üzerinden oluşturma nedenim tüm contoller yaplarında ayrı ayrı çağırmak zorunda kalmamanız adına bu sayede tüm projenizde sadece bir kere bu fonksiyonu oluşturararak çoklu dil yapısını kullanabilirsiniz. Videoda anlamadığınız sormak istediğiniz yerler olursa her zaman bana sorabilirsiniz. Yorumlara elimden geldiği kadar cevap vermekteyim.
